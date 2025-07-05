@@ -4,7 +4,7 @@
 
 - Project Title: Pizza_sale_analysis
 - Database:Pizza_database
-- Tools=SQL,PowerBi
+- Tools=SQL,PowerBi,Excel
 
 This project presents a comprehensive analysis of pizza sales data with the goal of uncovering key business insights and trends. The analysis is intended to support decision-making in areas like inventory management, marketing, and operational planning.
 
