@@ -6,7 +6,7 @@ Project Title: Pizza_sale_analysis      Database:Pizza_database
 
 This project presents a comprehensive analysis of pizza sales data with the goal of uncovering key business insights and trends. The analysis is intended to support decision-making in areas like inventory management, marketing, and operational planning.
 
-##Objective
+## Objective
 1)Analyze overall sales performance using key metrics (e.g., total revenue, total orders).
 
 2)Identify top- and bottom-performing pizzas based on revenue, quantity sold, and order count.
